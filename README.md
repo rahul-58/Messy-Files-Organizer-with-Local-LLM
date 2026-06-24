@@ -73,7 +73,7 @@ python schedule_worker.py
 The script will instantly check the inbox, process your files using the local AI, and organize them into the **organized** folder. It will keep running and check back every 5 minutes.
 
 ### Step 3: Stop the System
-When you are done recording your video or testing the project, click inside your terminal window and press **Ctrl + C** on your keyboard to stop the automatic loop.
+When you want to stop the project, click inside your terminal window and press **Ctrl + C** on your keyboard to stop the automatic loop.
 
 ### Step 4: Search for Your Files
 Because the system saves everything into a local database, you can search for words inside your files instantly. Open your terminal and type python search.py followed by the word you want to find.
