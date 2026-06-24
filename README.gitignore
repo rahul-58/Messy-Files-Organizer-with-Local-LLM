@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.env
+
+# Local Databases (Crucial so you don't commit your local Second Brain test data)
+*.db
+*.sqlite3
+
+# Local organization folders (Optional: if you want to keep your test files local)
+/organized/
