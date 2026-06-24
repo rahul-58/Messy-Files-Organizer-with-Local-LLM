@@ -1,0 +1,3 @@
+The idea was to help students study together by providing features like group discussions, resource sharing, and AI-generated quizzes. I worked on both backend and frontend parts of the application.
+
+From a business perspective, I focused on how users would interact with the system and how features should flow end-to-end. I helped structure workflows like how users join groups, share materials, and take quizzes.
